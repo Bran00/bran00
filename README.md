@@ -24,4 +24,4 @@
 <img src="assets/html.svg" alt="" />
 <img src="assets/css.svg" alt="" />
 <img src="assets/js.svg" alt="" />
-<img src="assets/node.js" alt=""  />
+<img src="assets/node.svg" alt=""  />
