@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hiii, I'm Brando, a <strong>Web Developer</strong>.<br>
+  Hiii, I'm Brando, a <strong>Front-end Developer</strong>.<br>
   The Search, To understand and run is my goal. I'm student and seeking out a vacancy.
 </p>
 
