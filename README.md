@@ -20,8 +20,9 @@
   <a href="https://www.linkedin.com/in/hildebrando-mendes-ferreira-rocha" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
-
+<p>
 <img src="assets/html.svg" alt="" />
 <img src="assets/css.svg" alt="" />
 <img src="assets/js.svg" alt="" />
 <img src="assets/node.svg" alt=""  />
+</p>
