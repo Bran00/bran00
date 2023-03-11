@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript and Next.js.</strong>
+  🦄 Languages: <strong>JavaScript with ReactJS and Next.js.</strong>
 </p>
 
 <p align="left">
@@ -27,4 +27,5 @@
 <img src="assets/css.svg" alt="" />
 <img src="assets/js.svg" alt="" />
 <img src="assets/node.svg" alt=""  />
+<img src="assets/react.svg" alt="" />
 </p>
