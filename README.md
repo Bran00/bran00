@@ -27,16 +27,5 @@
 <img src="assets/css.svg" alt="" />
 <img src="assets/js.svg" alt="" />
 <img src="assets/node.svg" alt=""  />
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="50" height="50" rx="25" fill="#0AA9D7"/>
-<mask id="mask0_203_946" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="50">
-<rect width="50" height="50" rx="25" fill="white"/>
-</mask>
-<g mask="url(#mask0_203_946)">
-<ellipse cx="25" cy="25.3636" rx="2.79545" ry="2.79545" fill="white"/>
-<ellipse cx="25" cy="25.3636" rx="15" ry="5.72727" stroke="white"/>
-<ellipse cx="25" cy="25.3636" rx="15" ry="5.72727" transform="rotate(60 25 25.3636)" stroke="white"/>
-<ellipse cx="25" cy="25.3636" rx="15" ry="5.72727" transform="rotate(120 25 25.3636)" stroke="white"/>
-</g>
-</svg>
+<img src="assets/react.svg" alt="" />
 </p>
