@@ -27,5 +27,5 @@
 <img src="assets/css.svg" alt="" />
 <img src="assets/js.svg" alt="" />
 <img src="assets/node.svg" alt=""  />
-<img src="assets/react.svg" alt="" />
+ 
 </p>
