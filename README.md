@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hiii, I'm Brando, a <strong>Front-end Developer</strong> with solids knowledges in UI and UX designer.<br>
-  The Search, To understand and run is my goal. I'm student and seeking my first vacancy.
+  The Search, To understand and run is my goal.
 </p>
 
 <p align="left">
