@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript with ReactJS and Next.js.</strong>
+  🦄 Languages: <strong>JavaScript with React and Node.</strong>
 </p>
 
 <p align="left">
