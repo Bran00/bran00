@@ -20,7 +20,7 @@
 </p>  
 <p>
 <img src="assets/js.svg" alt="" />
-<img src="assets/typescript.svg" alt="" />
+<img src="assets/typescript.svg" alt="" width="50px" height="50px" />
 <img src="assets/react.svg" alt="" />
 <img src="assets/node.svg" alt=""  />
 <img src="assets/insomnia.svg" alt="" />
