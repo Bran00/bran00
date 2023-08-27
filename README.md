@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
 <p>
+<img src="assets/go.svg" alt="" />
 <img src="assets/js.svg" alt="" />
 <img src="assets/typescript.svg" alt="" width="50px" height="50px" />
 <img src="assets/react.svg" alt="" />
