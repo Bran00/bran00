@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript and GO</strong>
+  🦄 Languages: <strong>JavaScript, C# and GO</strong>
 </p>
 
 <p align="left">
